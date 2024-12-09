@@ -2,7 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author":"Soumyajoti Sen",
 	"description": "its my first backend code writing in javascript",
-	"keywords": ["backend","code", "freeCodeCamp"],
+	"keywords": ["backend","code", "freecodecamp"],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
