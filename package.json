@@ -4,6 +4,7 @@
 	"description": "its my first backend code writing in javascript",
 	"keywords": ["backend","code", "freecodecamp"],
 	"license":"MIT",
+	"version": "1.2.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
