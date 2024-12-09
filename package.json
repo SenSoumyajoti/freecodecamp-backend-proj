@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author":"Soumyajoti Sen",
+	"description": "its my first backend code writing in javascript",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
