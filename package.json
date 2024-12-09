@@ -3,6 +3,7 @@
 	"author":"Soumyajoti Sen",
 	"description": "its my first backend code writing in javascript",
 	"keywords": ["backend","code", "freecodecamp"],
+	"license":"MIT",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
